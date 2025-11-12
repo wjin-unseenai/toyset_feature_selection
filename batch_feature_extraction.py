@@ -27,3 +27,4 @@ if 'eval' in process_str:
     # Extract features and normalize them
     eval_feat_cls.extract_all_feature()
     eval_feat_cls.preprocess_features()
+
